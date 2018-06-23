@@ -1,0 +1,154 @@
+.navButton{
+    color: darkgray;
+    text-align: left;
+    font-weight: bold;
+    padding: 2% 2% 2% 2%;
+    margin: 2% 2% 2% 2%;
+}
+
+.centerHeader{
+    align-content:center;
+    text-align: center;
+    justify-content: center;
+    float: center;
+    display: inline-block;
+    margin: 0 auto;
+    left: 0;
+    width: 100%;
+}
+
+.NYTHeader{
+    align-content:center;
+    text-align: center;
+    justify-content: center;
+    float: center;
+    display: inline-block;
+    margin: 0 auto;
+    left: 0;
+    width: 100%;
+    font-family: cursive;
+}
+
+.pCenter{
+    align-content:center;
+    text-align: center;
+    width: 100%;
+}
+
+.rowCenter{
+    padding: 1% 1%;
+    margin: 1% 1%;
+    align-content:center;
+    justify-content: center;
+    text-align: center;
+}
+
+.cardBody{
+    padding: 1% 1%;
+    border: 1% 1%;
+    margin: 1% 1%;
+}
+
+.img1{
+    height: 500px;
+}
+
+.navMenu{
+    color: black; 
+    display: inline-block;
+    text-align: center;
+    align-content: center; 
+    justify-content: center;
+
+}
+
+.nav-link{
+    display: inline-block;
+    font-weight: bold;
+    margin: 0 0;
+    font-size: 10px;
+    color: black; 
+    text-align: center;
+    align-content: center; 
+    justify-content: center;
+} 
+
+.nav-link-small{
+    display: inline-block;
+    margin: 0 0;
+    font-size: 8px;
+    color: black; 
+    text-align: center;
+    align-content: center; 
+    justify-content: center;
+}
+
+.container1{
+    width: 95%;
+    padding: 0% 2%;
+}
+
+.btn-primary-1{
+    background-color: lightskyblue;
+    border: lightskyblue;
+    float: right;
+    margin: 0px 10px;
+}
+
+.contentHeader{
+    text-align: center;
+    font-size: 16px;
+}
+
+.comments{
+    color: blue;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.headline{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.MainHeadline{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.author{
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+    display: inline-block;
+}
+
+.timestamp{
+    font-size: 12px;
+    color: red;
+    display: inline-block;
+}
+
+.MainHeadlineCenter{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.paraCenter{
+    text-align: center;
+}
+
+.body1{
+    font-size: 12px;
+}
+
+.navButton2{
+    border: black solid 1px;
+    border-radius: 10px;
+}
+
+.navButton2-5{
+    border: black solid 1px;
+}
